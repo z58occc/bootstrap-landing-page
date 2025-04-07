@@ -1,0 +1,12 @@
+@import "../node_modules/bootstrap/scss/functions";
+@import "./helpers/variables";
+@import "../node_modules/bootstrap/scss/variables-dark";
+@import "../node_modules/bootstrap/scss/maps";
+@import "../node_modules/bootstrap/scss/mixins";
+@import "./helpers/utilities";
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+@import "./components/header";
+@import "./components/deco-line";
+@import "./components/custom-button";
+@import "./components/custom-accordion"
